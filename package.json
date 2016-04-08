@@ -1,0 +1,23 @@
+{
+    "name": "mag-eslint-config",
+    "version": "0.0.1",
+    "description": "General-purpose eslint linting rules.",
+    "author": {
+        "name": "Stanislav Kalashnik",
+        "email": "darkpark.main@gmail.com"
+    },
+    "main": ".eslintrc.js",
+    "repository": "magsdk/eslint-config",
+    "dependencies": {
+        "spa-eslint-config": "spasdk/eslint-config"
+    },
+    "keywords": [
+        "commonjs",
+        "sdk",
+        "magsdk",
+        "framework",
+        "eslint",
+        "config"
+    ],
+    "license": "GPL-3.0"
+}
