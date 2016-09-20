@@ -7,7 +7,10 @@
         "email": "darkpark.main@gmail.com"
     },
     "main": ".eslintrc.js",
-    "repository": "magsdk/eslint-config",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/magsdk/eslint-config.git"
+    },
     "dependencies": {
         "spa-eslint-config": "spasdk/eslint-config"
     },
