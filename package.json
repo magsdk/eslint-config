@@ -1,6 +1,6 @@
 {
     "name": "mag-eslint-config",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "General-purpose eslint linting rules.",
     "author": {
         "name": "Stanislav Kalashnik",
