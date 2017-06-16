@@ -11,7 +11,8 @@ module.exports = {
     extends: require.resolve('spa-eslint-config/.eslintrc.js'),
 
     globals: {
-        core: false
+        core: false,
+        _: false
     },
 
     // override any settings from the "parent" configuration
